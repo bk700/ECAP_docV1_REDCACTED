@@ -1,0 +1,12 @@
+name: Skeleton
+title: Skeleton
+username:
+account: bjudson
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 373659
+bundleId: 1466909
+url: https://bjudson.shinyapps.io/Skeleton/
+when: 1530822556.34569
+asMultiple: FALSE
+asStatic: FALSE
